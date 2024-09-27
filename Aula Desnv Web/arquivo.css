@@ -6,7 +6,7 @@
   background-color: blue;
   width: 200px;
   height: 200px;
-  position: 
+  position: absolute;
   left: 800px;
   top: 150px;
 }
@@ -18,7 +18,7 @@
   width: 200px;
   height: 200px;
   position:absolute;
-  right: 800px;
+  right: 200px;
   top: 150px;
 }
 
@@ -28,8 +28,8 @@
   background-color: red;
   width: 200px;
   height: 200px;
-  position:fixed;
-  left: 800px;
+  position:absolute;
+  right: 1000px;
   top: 150px;
 }
 
@@ -39,7 +39,7 @@
   background-color: yellow;
   width: 200px;
   height: 200px;
-  position: relative;
-  left: 800px;
+  position: absolute;
+  left: 400px;
   top: 150px;
 }

@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aula 2</title>
+  </head>
+  <body style="background-color:grey">
+    <h1>Listas</h1>
+    <p>Existe 2 tipos de listas. Listas ordenados e não ordenadas</p>
+    <h2>Lista não ordenada</h2>

@@ -1,0 +1,14 @@
+#teste{
+    width: 200px;
+    height: 100px;
+    background-color:red;
+    transition-property: backgroud, width;
+    transition-duration: 2s;
+    overflow: scroll;
+    }
+
+    #teste:hover{
+    background-color:green;
+    width: 300px;
+    }
+
