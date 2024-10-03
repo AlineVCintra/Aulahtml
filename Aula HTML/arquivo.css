@@ -1,0 +1,46 @@
+.divA{
+ .bloco1 {
+  border: solid;
+  border-color: black;
+  background-color: blue;
+  width: 70px;
+  height: 300px;
+  border: 1px solid #c3c3c3;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  }
+}
+
+.bloco2 {
+  border: solid;
+  border-color: black;
+  background-color: green;
+  width: 200px;
+  height: 200px;
+  position:absolute;
+  right: 200px;
+  top: 150px;
+}
+
+.bloco3 {
+  border: solid;
+  border-color: black;
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  position:absolute;
+  right: 1000px;
+  top: 150px;
+}
+
+.bloco4 {
+  border: solid;
+  border-color: black;
+  background-color: yellow;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 400px;
+  top: 150px;
+}
